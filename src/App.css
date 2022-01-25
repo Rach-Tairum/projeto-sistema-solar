@@ -1,3 +1,59 @@
-.App {
+/* Referencia da imagem: https://t5z6q4c2.rocketcdn.me/wp-content
+/uploads/2020/07/lei-de-hubble-o-que-e-e-como-ela-calcula-a-idade-do-universo-1.png */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Gentium+Basic&family=Mukta:wght@200&display=swap') ;
+
+body {
+  background-image: url('images/lei-de-hubble-o-que-e-e-como-ela-calcula-a-idade-do-universo-1.png');
+}
+
+header {
+  color: white;
+  font-family: Cinzel , sans-serif;
+  font-size: 30pt;
+  font-weight: 200;
   text-align: center;
+}
+
+.solarSystem {
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.titulo {
+  background-color: rgba(188, 188, 243, 0.582);
+  border: 3px solid rgb(2, 2, 136);
+  border-radius: 15px;
+  color: white;
+  font-family: Gentium Basic , sans-serif;
+  font-size: 25pt;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-flow: wrap;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.planet {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-family: Mukta , sans-serif;
+  font-size: 15pt;
+  font-weight: 600;
+}
+
+.planet img {
+  width: 150px;
+}
+
+.planet p {
+  background-color: black;
+  padding: 5px;
+  border-radius: 10px;
 }

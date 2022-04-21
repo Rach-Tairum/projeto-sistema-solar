@@ -1,4 +1,4 @@
-# Projeto um vislumbre do Sistema Solar!
+# Projeto um vislumbre do Sistema Solar! 🌌
 
 Vamos a uma pequena viagem ao espaço?
 
@@ -27,3 +27,6 @@ Neste projeto, fui capaz de:
 ---
 
 ## Projeto Pronto
+
+https://user-images.githubusercontent.com/93009735/164462658-e46946fe-d349-4db0-9862-8cc4b3d8ec3e.mp4
+

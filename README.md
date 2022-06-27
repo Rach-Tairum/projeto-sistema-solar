@@ -23,7 +23,7 @@ Esse é meu primeiro projeto em React. Seu objetivo é exibir algumas informaç�
 
 ---
 
-## Habilidades desenvolvidas
+## ✨ Habilidades desenvolvidas
 
 Neste projeto, fui capaz de:
 
@@ -53,7 +53,7 @@ Neste projeto foi desenvolvido um modelo do sistema solar! Ao utilizar essa apli
 
 ---
 
-## Video do projeto pronto
+## ✨ Video do projeto pronto
 
 https://user-images.githubusercontent.com/93009735/164462658-e46946fe-d349-4db0-9862-8cc4b3d8ec3e.mp4
 

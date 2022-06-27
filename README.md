@@ -6,7 +6,24 @@ Esse é meu primeiro projeto em React. Seu objetivo é exibir algumas informaç�
 
 ---
 
-## Habilidades
+# ✨ Sumário
+
+- [Requisitos do projeto]
+
+  - [1. Crie um componente chamado `Header`]
+  - [2. Crie um componente chamado `SolarSystem`]
+  - [3. Crie um componente chamado `Title`]
+  - [4. Renderize o componente `Title` dentro do componente `SolarSystem`]
+  - [5. Crie um componente chamado `PlanetCard`]
+  - [6. Renderize uma lista com os planetas do Sistema Solar]
+  - [7. Crie um componente chamado `Missions`.]
+  - [8. Renderize o componente `Title` dentro do componente `Missions`]
+  - [9. Crie um componente chamado `MissionCard`](
+  - [10. Renderize uma lista com as missões espaciais]
+
+---
+
+## Habilidades desenvolvidas
 
 Neste projeto, fui capaz de:
 
@@ -26,7 +43,17 @@ Neste projeto, fui capaz de:
 
 ---
 
-## Projeto Pronto
+## ✨ O que foi desenvolvido
+
+Neste projeto foi desenvolvido um modelo do sistema solar! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
+
+  * Visualizar todos os planetas do sistema solar renderizados na tela;
+
+  * Visualizar todas as cartas com informações sobre missões espaciais;
+
+---
+
+## Video do projeto pronto
 
 https://user-images.githubusercontent.com/93009735/164462658-e46946fe-d349-4db0-9862-8cc4b3d8ec3e.mp4
 
